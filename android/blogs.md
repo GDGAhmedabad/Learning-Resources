@@ -15,3 +15,4 @@ Square Island | http://blog.sqisland.com/
 ph0b's | http://ph0b.com/
 D-codepages | http://d-codepages.com/
 Learn2Crack | https://www.learn2crack.com/
+Styling Android | https://blog.stylingandroid.com/
