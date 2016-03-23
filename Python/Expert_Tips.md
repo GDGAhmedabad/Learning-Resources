@@ -20,3 +20,17 @@
  - If the implementation is hard to explain, it's a bad idea.
  - If the implementation is easy to explain, it may be a good idea.
  - Namespaces are one honking great idea -- let's do more of those!
+ 
+### Performance-Complexity Hacks
+
+ - Import is better than from.
+ - Iterations is better than Looping.(List traversal)
+ - Map is better than Zip. (List Comprehension)
+ - Coupling: use arguments for inputs and  return for outputs.
+ - Use global variables only when truly necessary.
+ - Don’t change mutable arguments unless the caller expects it.
+ - Each function should have a single, unified purpose. Don't mess it. 
+ - Avoid changing variables in another module file directly.
+ - Lambda over zip are better than simple.(list(map((lambda x: x ** 2), range(10))))
+ - [] Becomes Comprehension, () Becomes Generator. (List)
+ - Avoid Nested Comprehenssion on List. 
