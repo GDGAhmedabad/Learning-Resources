@@ -18,4 +18,4 @@
 - [Hortonworks Certification](http://hortonworks.com/training/certification/)
  <br/>
 
-- These lists is small but more will be added soon.
+- These list is small but more will be added soon.
