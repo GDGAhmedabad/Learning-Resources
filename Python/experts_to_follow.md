@@ -1,6 +1,5 @@
 Name | Twitter | Google+ | Website/Blog | LinkedIn | Other links
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- |
-
 Guido van Rossum | https://twitter.com/gvanrossum | - | https://www.python.org/~guido/ | - | - 
 Kenneth Reitz | https://twitter.com/kennethreitz | - | http://www.kennethreitz.org/ | - | https://github.com/kennethreitz
 David Beazley | https://twitter.com/dabeaz | - | http://www.dabeaz.com/ | - | - 
