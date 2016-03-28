@@ -25,6 +25,7 @@
 - [Sort Text Lines] (http://textmechanic.com/text-tools/basic-text-tools/sort-text-lines/) Enter your text/list for sorting here.
 - [Performance Analysis of App] (http://www.monkop.com/) Get a detailed analysis about performance, security and functionality.
 - [Material Palette Generator] (http://www.materialpalette.com/) Choose your favorite colors and get your Material Design palette generated and downloadable.
+- [ClassyShark] (http://www.classyshark.com/) A handy Android and Java executables viewer.
 
 ### Dependency Injection
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
