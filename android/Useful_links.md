@@ -8,6 +8,7 @@
 
 ### Debug
 - [Stetho](http://facebook.github.io/stetho/#integrations) - A debug bridge for Android applications
+- [Log Util](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds
 
 ### JSON
 - [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
