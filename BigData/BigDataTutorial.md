@@ -9,12 +9,15 @@
 - [Official Apache Hadoop Site](https://hadoop.apache.org) - Apache Hadoop Site
 - [edureka Courses](https://www.youtube.com/user/edurekaIN/playlists?sort=dd&shelf_id=6&view=50) - Edureka's All Youtube Videos
 - [Online Competition For Data Science](https://www.kaggle.com/) - Kaggle
-- [Mapr Tutotial](http://learn.mapr.com/) - One of the Best Tutorial For Big Data and Hadoop
+- [MapR Tutotial](http://learn.mapr.com/) - One of the Best Tutorial For Big Data and Hadoop
 - [Big Data Projects](https://www.acquia.com/examples-big-data-projects) - Big Data Project Ideas
 - [HDFS Architechture](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html) - Hadoop Distributed File System Arch.
-- [Mapr  Papers](https://www.mapr.com/resources/white-papers) - Hadoop White Papers
+- [MapR  Papers](https://www.mapr.com/resources/white-papers) - Hadoop White Papers
 - [Udacity Courses](https://www.udacity.com/courses/data-science) - Udacity MOOC Data Science Courses
 - [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data) - Coursera Big Data Course By University of California,San Diego
 - [Cloudera Hadoop Certification](http://www.cloudera.com/training/certification.html) 
-- [Mapr Hadoop Certification](https://www.mapr.com/services/mapr-academy/certified-hadoop-developer)
+- [MapR Hadoop Certification](https://www.mapr.com/services/mapr-academy/certified-hadoop-developer)
 - [Hortonworks Certification](http://hortonworks.com/training/certification/)
+- [Spark Overview](http://spark.apache.org/docs/latest/index.html)
+- [Big Data Processing with Spark, Matei Zaharia](https://www.youtube.com/watch?v=d9D-Z3-44F8)
+- [Spark Programming Guide](http://spark.apache.org/docs/latest/programming-guide.html)
