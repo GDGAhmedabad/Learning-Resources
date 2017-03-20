@@ -8,7 +8,8 @@ IDEs with code completion and other features.
 - [NetBeans](http://wiki.netbeans.org/Python) - Python/Jython support in NetBeans. Open source, allows Python and Jython Editing, code-completion, debugger, refactoring, templates, syntax analysis, etc.
 - [VS Tools for Python](http://pytools.codeplex.com/) - Open-source plugin for Visual Studio 2010, 2012 and 2013. Supports syntax highlighting, debugging and rich intellisense, refactoring, object browser, MPI cluster debugging, Django intellisense and debugging, development REPL window and a debugging REPL window.
 - [Atom](https://atom.io/) - 4th Generation enhanced GUI, rich integrated enviornmet for multiple languages including python.
-
+- [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a sophisticated text editor for code, markup and prose.
+- [Anaconda](https://www.continuum.io/downloads) - Anaconda is a completely free Python distribution (including for commercial use and redistribution). It includes more than 400 of the most popular Python packages for science, math, engineering, and data analysis.
 Debugger
 ---------
 
