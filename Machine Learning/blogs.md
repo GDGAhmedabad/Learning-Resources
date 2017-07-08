@@ -6,5 +6,5 @@ FastML | http://fastml.com/
 BigML | https://blog.bigml.com/
 CITY University of London | https://blogs.city.ac.uk/ml/
 Machine Learning, etc | http://yaroslavvb.blogspot.in/
-FastAI | fast.ai
+FastAI | http://fast.ai
 DatumBox | http://blog.datumbox.com/
