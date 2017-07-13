@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Retrofit with Eventbus</string>
+
+    <string name="title_list">List</string>
+    <string name="title_upload">Upload</string>
+    <string name="title_about">About</string>
+
+    <!--Errors-->
+    <string name="error_no_internet">Check your internet connection and try again.</string>
+    <string name="error_server_problem">Server issue occurred, please try again.</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_image_processing">Error during processing.</string>
+    <string name="error_invalid_image">Image is invalid.</string>
+    <string name="str_file_not_found">File is not created</string>
+
+
+    <string name="str_allow_permission_for_image">Please allow permission to take Image.</string>
+    <string name="str_allow_permission_from_setting">Please allow permission from Application setting.</string>
+
+    <string name="str_ok">OK</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_plz_select_img">Please select Image to upload.</string>
+
+    <!--APIs-->
+    <string name="api_image_list">image_list.php</string>
+    <string name="api_upload">upload.php</string>
+    <string name="api_error">error_api</string>
+
+</resources>

@@ -1,1 +1,2 @@
 - [DevTips](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw) - Github for Noobs
+- [TheNewBoston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx) - Git Tutorials

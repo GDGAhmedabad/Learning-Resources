@@ -1,0 +1,3 @@
+- [TheNewBoston C++](https://thenewboston.com/videos.php?cat=16) - TheNewBoston C++ tutorials
+- [TheNewBoston C](https://thenewboston.com/videos.php?cat=14) - TheNewBoston C tutorials
+- [TheNewBoston C++ GUI with QT](https://thenewboston.com/videos.php?cat=57) - TheNewBoston C++ GUI with QT tutorials

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "365939195494",
+    "firebase_url": "https://gdggit-fire-examples.firebaseio.com",
+    "project_id": "gdggit-fire-examples",
+    "storage_bucket": "gdggit-fire-examples.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365939195494:android:b5318f19ff7a59f5",
+        "android_client_info": {
+          "package_name": "com.jalotsav.fireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365939195494-4rq6l9fadehjegmtsol2ofo6ost1l6bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jalotsav.fireauth",
+            "certificate_hash": "3A19E1BFEF8E30C2C05DC775FE3D1AE5978887D9"
+          }
+        },
+        {
+          "client_id": "365939195494-hkjo4e2hjl9e3uliq2m22tm0dgmi5901.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Jmy6-XBXCti1QLLO06gLc38IwqzN80k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365939195494-hkjo4e2hjl9e3uliq2m22tm0dgmi5901.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

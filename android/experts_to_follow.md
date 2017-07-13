@@ -33,3 +33,5 @@ Chet Haase | https://twitter.com/chethaase | https://plus.google.com/+ChetHaase 
 Romain Guy | https://twitter.com/romainguy | https://plus.google.com/+RomainGuy | http://www.curious-creature.com/category/android/
 Michael Evans | https://twitter.com/m_evans10 | https://plus.google.com/+MichaelEvans | http://michaelevans.org/
 Colt McAnlis | https://twitter.com/duhroach | https://plus.google.com/+ColtMcAnlis | http://mainroach.blogspot.in/ https://medium.com/@duhroach | https://www.linkedin.com/in/duhroach | https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
+Lars Vogel | https://twitter.com/vogella | https://plus.google.com/+LarsVogel | http://vogella.com | https://de.linkedin.com/in/vogella | 
+Huyen Dao | https://twitter.com/queencodemonkey | https://plus.google.com/102581039328114075159 | http://www.randomlytyping.com/ | https://www.linkedin.com/in/huyentuedao | https://developers.google.com/experts/people/huyen-tue-dao

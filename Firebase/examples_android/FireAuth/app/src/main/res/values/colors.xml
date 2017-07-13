@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#21272B</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#69F0AE</color>
+    <color name="colorPrimaryAmber">#FFC107</color>
+
+    <color name="grayA8">#A8A8A8</color>
+    <color name="window_bg">#607D8B</color>
+    <color name="whiteDialogBg">#F5F5F5</color>
+
+    <!--Social Media background-->
+    <color name="social_fb">#36609F</color>
+    <color name="social_twtr">#2BA9E0</color>
+    <color name="social_gp">#DB5442</color>
+</resources>

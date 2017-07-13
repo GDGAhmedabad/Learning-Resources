@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FireAuth</string>
+    <string name="imgcd_imges">Images</string>
+
+    <!--Fire Auth-->
+    <string name="email_sml">Email</string>
+    <string name="email_entr_sml">Enter email</string>
+    <string name="email_invalid">Enter valid email</string>
+    <string name="password_sml">Password</string>
+    <string name="password_entr_sml">Enter password</string>
+    <string name="email_password_invalid">Email or password invalid</string>
+    <string name="signin_sml">Signin</string>
+    <string name="forgot_password_sml">Forgot password?</string>
+    <string name="notmember_registernow">Not member? Get registered now!</string>
+    <string name="signup_sml">Signup</string>
+    <string name="already_regstrd_signin">Already registered. Signin me!</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="reset_password_sml">Reset password</string>
+    <string name="myprofile_sml">My Profile</string>
+
+    <!--Facebook App Id-->
+    <string name="facebook_app_id">1622826004681813</string>
+    <!--If your App ID is 1234567, you should use fb1234567-->
+    <string name="fb_login_protocol_scheme">fb1622826004681813</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RuntimePermissionDemo</string>
+    <string name="explaination">this is sample explaination</string>
+</resources>

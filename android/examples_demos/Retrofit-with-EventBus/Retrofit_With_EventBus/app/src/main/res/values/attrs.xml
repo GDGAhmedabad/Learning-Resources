@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--Material Progressbar-->
+  <declare-styleable name="MaterialProgressBar">
+    <attr name="inner_radius" format="dimension"/>
+    <attr name="background_color" format="color"/>
+    <attr name="progress_color" format="color"/>
+    <attr name="progress_stoke_width" format="dimension"/>
+    <attr name="show_arrow" format="boolean"/>
+    <attr name="enable_circle_background" format="boolean"/>
+    <attr name="arrow_width" format="dimension"/>
+    <attr name="arrow_height" format="dimension"/>
+    <attr name="colorscheme" format="color"/>
+
+    <attr name="progress" format="integer"/>
+    <attr name="max" format="integer"/>
+
+
+    <attr name="progress_text_size" format="dimension"/>
+    <attr name="progress_text_color" format="color"/>
+
+    <!--<attr name="mlpb_progress_text_offset" format="dimension"/>-->
+
+    <attr name="progress_text_visibility" format="enum">
+      <enum name="visible" value="0"/>
+      <enum name="invisible" value="1"/>
+    </attr>
+  </declare-styleable>
+
+</resources>

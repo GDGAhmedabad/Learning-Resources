@@ -5,14 +5,21 @@
 - [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly #AndroidDev Newsletter.
 - [Android Dev Reddit](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community.
 - [Google Developer Experts - Medium](https://medium.com/google-developer-experts) - Articles, tips/tricks and best practices by Google Developers Experts. It has posts for different technologies but you have to look for android specifically!
+- [Android Best Practices](https://github.com/futurice/android-best-practices) - Repository which has listed best practices for Beginner Android Developer
+- [Improt Java](http://importjava.org/) - Weekly Java & Android Newsletter
 
 ### Debug
 - [Stetho](http://facebook.github.io/stetho/#integrations) - A debug bridge for Android applications
 - [Hugo] (https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
+- [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for android.
+- [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+- [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
+
 
 ### JSON
 - [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
 - [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
+- [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java developed by Square Inc.
 
 ### Development tools
 - [JSON viewer](http://json.parser.online.fr/) - View JSON not response
@@ -37,13 +44,20 @@
 - [adb-idea](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
 - [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML.
 - [ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) - IntelliJ Plugin for Android Parcelable boilerplate code generation.
+- [gradle-android-javadoc-plugin](https://github.com/vanniktech/gradle-android-javadoc-plugin) - Gradle plugin to generate Javadoc
+- [findViewByMe](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160803072309%2Fhttp%3A%2F%2Fjaeger.itscoder.com%2Fandroid%2F2015%2F11%2F27%2Ffind-view-by-me.html) - A plugin for android developer, with the plugin you can generate "findViewById" code quickly.
 
+### Android Studio Templates 
+- [Material-Template](https://github.com/kanytu/Android-studio-material-template) - Android-studio-material-template
+- [BaseProject-Template](https://github.com/WebMobTechnologies/AndroidTemplates) - Template for Base Project includes volley lib ,Image loading libs ,basic utils classes 
 
 ### Dependency Injection
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 - [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
 - [AndroidAnnotations](https://github.com/excilys/androidannotations) - Java annotations with dependency injection at compile time.
+- [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose library containing view injection and threading for Android using annotations.
+- [Transfuse](https://github.com/johncarl81/transfuse) - A Dependency Injection and Integration framework for Google Android.  
 
 ### Network
 - [OkHttp](https://github.com/square/okhttp) - An HTTP & HTTP/2 client for Android and Java applications by Square, Inc.
@@ -64,6 +78,9 @@
 - [Crashlytics](https://try.crashlytics.com/) with [Fabric kit](https://get.fabric.io/android) - A powerful crash reporting solution with statistics by Twitter
 - [Crittercism](https://www.apteligent.com/) - Crittercism aka Apteligent - A powerful tool for crash reporting, user flows and service monitoring
 - [ACRA](https://github.com/ACRA/acra) - ACRA is a library enabling Android Application to automatically post their crash reports to a GoogleDoc form.
+- [Firebase Analytics](https://firebase.google.com/docs/analytics/#key_functions) - Firebase Analytics is a free app measurement solution that provides insight on app usage and user engagement.
+
+
 
 ### Bluetooth
 - [RxAndroidBLE] (https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches. It is backed by RxJava, implementing complicated APIs as handy reactive observables.
@@ -73,3 +90,31 @@
 - [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL) - A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.
 - [CouchBase](http://developer.couchbase.com/mobile) - The NoSQL database solution for mobile — everything you need to build always-available apps that work online & offline.
 - [SnappyDB](http://www.snappydb.com) - A fast and lightweight key/value database library for Android
+
+### ORM SQL
+- [ActiveAndroid](http://www.activeandroid.com/) - Active record style SQLite persistence for Android.
+- [GreenDao](http://greenrobot.org/greendao/) - greenDAO is an open source project to help Android developers working with data stored in SQLite. 
+- [Sugar ORM](http://satyan.github.io/sugar/) - Insanely easy way to work with Android Databases.
+
+### Charts & Graphs Libraries
+- [HelloCharts](https://github.com/lecho/hellocharts-android) - Charts/graphs library for Android with support for scaling, scrolling and animations.
+- [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Flexible charting library with useful motion capabilities.
+- [AndroidPlot](https://github.com/halfhp/androidplot) - plotting library for Android
+- [AndroidGraphView](http://android-graphview.org/) - library to create flexible and nice-looking diagrams
+- [AndroidCharts](https://github.com/dacer/AndroidCharts) - Easy to use charts
+- [EazeGraph](https://github.com/blackfizz/EazeGraph) - Another newer library with potential
+- [HoloGraphLibrary](https://github.com/Androguide/HoloGraphLibrary) - Newer graphing library
+- [AChartEngine](https://github.com/ddanny/achartengine) - This is a charting software library for Android applications
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library
+
+### Helpful Libraries
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Android specific bindings [Reactive Extensions](http://reactivex.io/) to write easy event-based and asynchronous programs using observable sequences.
+- [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+- [RetroLamda](https://github.com/evant/gradle-retrolambda) - This plugin will automatically build your java or android project with retrolambda, giving you [lambda](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) goodness on java 6 or 7. 
+- [Guava](https://github.com/google/guava) - The Guava project contains several of Google's core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
+ 
+### Event Bus
+- [AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus) - A lightweight eventbus library for android, simplifies communication between Activities, Fragments, Threads, Services, etc.
+- [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+- [tinybus](https://github.com/beworker/tinybus) - A lightweight and simple event bus optimized for Android.
+- [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.

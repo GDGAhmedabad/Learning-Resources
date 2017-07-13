@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#10C2E6</color>
+    <color name="colorPrimaryDark">#21495F</color>
+    <color name="colorAccent">#274F65</color>
+
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+
+    <color name="icons">@android:color/white</color>
+    <color name="primary_text">@color/colorPrimaryDark</color>
+    <color name="secondary_text">@color/colorPrimary</color>
+    <color name="divider">@color/colorPrimaryDark</color>
+    <color name="background">@android:color/white</color>
+
+
+    <color name="statusGreenColor">#0FBD64</color>
+
+    <color name="grey">#808080</color>
+    <color name="light_grey">#D0D0D0</color>
+
+    <color name="colorRow">#EFFCFF</color>  <!-- #E2F9FF -->
+    <color name="color_mh_divider">#274F65</color>
+
+</resources>

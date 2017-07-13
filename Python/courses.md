@@ -7,4 +7,5 @@
 - [Python with Django](https://goo.gl/DVM0m5) - Django over the python.
 - [Programming fundamental with python](https://goo.gl/JEdLMw) - Intermediate level course on python data structure and basic topics.
 - [Developing Scalable app with Python](https://goo.gl/EwWZDW) - How to use Google app engine along with python to create scalable webApp. 
+- [Learn python at Codecademy's interactive course](https://www.codecademy.com/tracks/python) - Learn by making programs in parallel with the tutorial, all on the same Web app.
 

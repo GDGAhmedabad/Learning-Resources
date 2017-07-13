@@ -10,7 +10,7 @@ Every Day Git (Learn the basics with 20 of the most common commands.) | https://
 Git Immersion (A guided tour that walks through the fundamentals of Git.) | http://gitimmersion.com/
 Git Beginner's Guide for Dummies (This guide includes an introduction for complete beginners as well as hands-on tutorials for intermediate learners.) | http://backlogtool.com/git-guide/en/
 Ry’s Git Tutorial (A hands-on introduction to the entire Git porcelain.) | http://rypress.com/tutorials/git/index.html
-Git for Designers (No knowledge of version control? No problem.) | http://hoth.entp.com/output/git_for_designers.html
+Git for Designers (No knowledge of version control? No problem.) | http://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html
 Git for Computer Scientists (A quick introduction to Git internals for people who aren't scared by words like Directed Acyclic Graph.) | http://eagain.net/articles/git-for-computer-scientists/
 git-draw (git-draw is a small tool that draws nearly the full content of a tiny git repository as a graph. It helps people with an engineering background learning Git's internals.) | https://github.com/sensorflo/git-draw/wiki
 
