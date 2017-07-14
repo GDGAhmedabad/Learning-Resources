@@ -1,0 +1,43 @@
+{
+	"news" : [
+		{
+			"title": "Gandhinagar News title 1",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		},
+		{
+			"title": "Gandhinagar News title 2",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		},
+		{
+			"title": "Gandhinagar News title 3",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		},
+		{
+			"title": "Gandhinagar News title 4",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		},
+		{
+			"title": "Gandhinagar News title 5",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		},{
+			"title": "Gandhinagar News title 6",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		}
+		,{
+			"title": "Gandhinagar News title 7",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		},
+		{
+			"title": "Gandhinagar News title 8",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		},
+		{
+			"title": "Gandhinagar News title 9",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		},
+		{
+			"title": "Gandhinagar News title 10",
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+		}
+	]
+}

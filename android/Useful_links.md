@@ -6,6 +6,7 @@
 - [Android Dev Reddit](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community.
 - [Google Developer Experts - Medium](https://medium.com/google-developer-experts) - Articles, tips/tricks and best practices by Google Developers Experts. It has posts for different technologies but you have to look for android specifically!
 - [Android Best Practices](https://github.com/futurice/android-best-practices) - Repository which has listed best practices for Beginner Android Developer
+- [Improt Java](http://importjava.org/) - Weekly Java & Android Newsletter
 
 ### Debug
 - [Stetho](http://facebook.github.io/stetho/#integrations) - A debug bridge for Android applications
@@ -18,6 +19,7 @@
 ### JSON
 - [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
 - [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
+- [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java developed by Square Inc.
 
 ### Development tools
 - [JSON viewer](http://json.parser.online.fr/) - View JSON not response
@@ -43,7 +45,11 @@
 - [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML.
 - [ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) - IntelliJ Plugin for Android Parcelable boilerplate code generation.
 - [gradle-android-javadoc-plugin](https://github.com/vanniktech/gradle-android-javadoc-plugin) - Gradle plugin to generate Javadoc
+- [findViewByMe](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160803072309%2Fhttp%3A%2F%2Fjaeger.itscoder.com%2Fandroid%2F2015%2F11%2F27%2Ffind-view-by-me.html) - A plugin for android developer, with the plugin you can generate "findViewById" code quickly.
 
+### Android Studio Templates 
+- [Material-Template](https://github.com/kanytu/Android-studio-material-template) - Android-studio-material-template
+- [BaseProject-Template](https://github.com/WebMobTechnologies/AndroidTemplates) - Template for Base Project includes volley lib ,Image loading libs ,basic utils classes 
 
 ### Dependency Injection
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
@@ -72,6 +78,9 @@
 - [Crashlytics](https://try.crashlytics.com/) with [Fabric kit](https://get.fabric.io/android) - A powerful crash reporting solution with statistics by Twitter
 - [Crittercism](https://www.apteligent.com/) - Crittercism aka Apteligent - A powerful tool for crash reporting, user flows and service monitoring
 - [ACRA](https://github.com/ACRA/acra) - ACRA is a library enabling Android Application to automatically post their crash reports to a GoogleDoc form.
+- [Firebase Analytics](https://firebase.google.com/docs/analytics/#key_functions) - Firebase Analytics is a free app measurement solution that provides insight on app usage and user engagement.
+
+
 
 ### Bluetooth
 - [RxAndroidBLE] (https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches. It is backed by RxJava, implementing complicated APIs as handy reactive observables.
@@ -101,4 +110,11 @@
 ### Helpful Libraries
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Android specific bindings [Reactive Extensions](http://reactivex.io/) to write easy event-based and asynchronous programs using observable sequences.
 - [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+- [RetroLamda](https://github.com/evant/gradle-retrolambda) - This plugin will automatically build your java or android project with retrolambda, giving you [lambda](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) goodness on java 6 or 7. 
 - [Guava](https://github.com/google/guava) - The Guava project contains several of Google's core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
+ 
+### Event Bus
+- [AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus) - A lightweight eventbus library for android, simplifies communication between Activities, Fragments, Threads, Services, etc.
+- [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+- [tinybus](https://github.com/beworker/tinybus) - A lightweight and simple event bus optimized for Android.
+- [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.

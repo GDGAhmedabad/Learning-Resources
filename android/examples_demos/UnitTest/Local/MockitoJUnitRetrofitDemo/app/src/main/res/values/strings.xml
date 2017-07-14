@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="error_empty_order">Please enter order</string>
+    <string name="error_empty_sortby">Please enter sort by</string>
+    <string name="error_empty_site">Please enter site</string>
+    <string name="error_no_response">No response from service</string>
+    <string name="error_empty_user_list">Empty user list</string>
+</resources>
