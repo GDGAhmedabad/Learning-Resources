@@ -1,0 +1,78 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '26.0.0'
+    defaultConfig {
+        applicationId "com.demo.retrofit"
+        minSdkVersion 19
+        targetSdkVersion 26
+        versionCode 3
+        versionName "1.0.3"
+
+        // Jack options are deprecated now
+        // https://android-developers.googleblog.com/2017/03/future-of-java-8-language-feature.html
+    }
+
+    dexOptions {
+        jumboMode = true
+        preDexLibraries = false
+        javaMaxHeapSize "4g"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    flavorDimensions "string"
+
+    productFlavors {
+        mock {
+            applicationIdSuffix = ".mock"
+        }
+        prod {
+        }
+    }
+
+    // Remove mockRelease as it's not needed.
+    android.variantFilter { variant ->
+        if (variant.buildType.name.equals('release')
+                && variant.getFlavors().get(0).name.equals('mock')) {
+            variant.setIgnore(true)
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    //
+    implementation supportDependencies.appCompat
+    implementation supportDependencies.cardView
+    implementation supportDependencies.design
+    implementation supportDependencies.recyclerView
+    implementation supportDependencies.supportV4
+    implementation supportDependencies.supportV13
+    implementation supportDependencies.supportVectorDrawable
+    implementation supportDependencies.exifInterface
+    //
+    implementation glide
+    implementation gson
+    implementation okhttp3LoggingInterceptor
+    implementation gsonConverter
+    implementation retrofit2
+    implementation eventbus
+    implementation lottie
+    implementation butterknife
+    annotationProcessor butterknifeCompiler
+    implementation(aboutlibraries) {
+        transitive = true
+    }
+
+}

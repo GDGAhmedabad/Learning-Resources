@@ -2,7 +2,6 @@ Name | Links
 ------------ | ------------- 
 RxAndroid | https://github.com/ReactiveX/RxAndroid
 Codepath RxJava Guide | http://guides.codepath.com/android/RxJava
-Grokking RxJava | http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/
 Getting Started with RxJava and Android | http://www.captechconsulting.com/blogs/getting-started-with-rxjava-and-android
 Reactivex.io | http://reactivex.io/
 Getting Started With ReactiveX on Android | http://code.tutsplus.com/tutorials/getting-started-with-reactivex-on-android--cms-24387

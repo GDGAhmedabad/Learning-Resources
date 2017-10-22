@@ -26,3 +26,6 @@ Grafix Artist | http://blog.grafixartist.com/
 Antonio Leiva | http://antonioleiva.com/
 Droids on Roids | http://www.thedroidsonroids.com/category/blog/android/
 Vogella | http://www.vogella.com/tutorials/android.html
+Android For Devs | http://www.android4devs.com/
+Dev Exchanges | http://www.devexchanges.info/
+Droid Mentor | http://droidmentor.com/

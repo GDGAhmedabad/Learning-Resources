@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvGet"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:shadowRadius="5"
+        android:text="GET"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25dp" />
+
+    <include layout="@layout/horizontal_line" />
+
+    <TextView
+        android:id="@+id/tvPost"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:shadowRadius="5"
+        android:text="POST"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25dp" />
+
+    <include layout="@layout/horizontal_line" />
+
+    <TextView
+        android:id="@+id/tvGotoLets"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:shadowRadius="5"
+        android:text="engineering.letsnurture.com"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25dp" />
+</LinearLayout>
