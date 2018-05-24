@@ -10,3 +10,4 @@ Android Design Patterns and Best Practices | https://www.amazon.in/dp/B01HGR1RFG
 Gradle Recipes for Android | https://www.amazon.com/dp/1491947020
 Android Programming: The Big Nerd Ranch Guide | https://www.bignerdranch.com/books/android-programming/
 Android Developer Fundamentals Course – Practicals | https://www.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals
+Android app development by Abhi android|https://drive.google.com/file/d/1zrDtyrUm8Ut4UAhyq3Zf4omTL06oMYzD/view

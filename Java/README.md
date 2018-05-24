@@ -12,3 +12,5 @@
 
 ### Useful Links
  * [Java 9 resources](https://sm-dev.edutone.net/Java9/) - Java9 resources
+ * [Javalin Framework](https://javalin.io/) - A simple web framework for Java and Kotlin
+
