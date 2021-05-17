@@ -12,3 +12,6 @@
 ### Useful tutorial Links
 
 - [Networking in Python](http://www.tutorialspoint.com/python/python_networking.htm/) - Networking in Python is a very interesting topic for Advanced Python Developers. A set of good tutorials in networking.
+
+### Useful project Links
+- [DevProjects](https://www.codementor.io/projects/python) - Free, unique, real-world Python projects for both web development and data analysis. 
